@@ -1,0 +1,22 @@
+h1{
+    color: crimson;
+    text-align: center;
+    font-size: 40px;
+}
+form{
+    margin-left: 450px;
+    border: 1px solid blue;
+    width: 415px;
+    padding: 10px;
+}
+input{
+    width:400px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: chartreuse;
+    padding: 10px;
+}
+#submitdata{
+    background-color: orange;
+    color: darkblue;
+}
